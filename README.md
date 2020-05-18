@@ -2,7 +2,7 @@
 ATM project Let's code Coimbatore -1 (2019)
 
 
-It is the code of the essential functions of the ATM.
+It is the Python code for the essential functions of the ATM.
 
 Running the program will be exciting !!!
 
