@@ -1,5 +1,5 @@
 # ATM-project-LCC1-
-ATM project Let's code Coimbatore -1 (2019)
+## ATM project Let's code Coimbatore -1 (2019)
 
 
 It is the Python code for the essential functions of the ATM.
@@ -15,6 +15,7 @@ It allows you to
    
    ▪️Withdraw amount (will decrease the balance amount)
 
-   ▪️Change PIN 
-   
+   ▪️Change PIN
+  
+### Run the code !!  
 
